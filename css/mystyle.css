@@ -44,3 +44,9 @@ h2{
     .word_spacing{
         word-spacing: 
     }
+    .line_hight{
+        line-height: 30px;
+    }
+    .text_shadow{
+        text-shadow: 1px 4px 1px chartreuse;
+    }
